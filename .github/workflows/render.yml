@@ -1,0 +1,44 @@
+# Picture-only render of one vertical Short in parallel pieces; pieces are attached to release <tag>.
+name: Render
+on:
+  workflow_dispatch:
+    inputs:
+      comp: {description: Composition id, required: true}
+      parts: {description: Pieces, required: true, default: '4'}
+      tag: {description: Release tag, required: true}
+permissions:
+  contents: write
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      parts: ${{ steps.p.outputs.parts }}
+      frames: ${{ steps.p.outputs.frames }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: 22, cache: npm}
+      - run: npm ci
+      - id: p
+        run: |
+          frames=$(npx remotion compositions src/index.ts --props='{"pictureOnly":true}' 2>/dev/null | awk -v c="${{ inputs.comp }}" '$1==c {print $4}')
+          test -n "$frames" || { echo "Composition not found"; exit 1; }
+          echo "frames=$frames" >> "$GITHUB_OUTPUT"
+          echo "parts=$(python3 -c "import json;print(json.dumps(list(range(int('${{ inputs.parts }}')))))")" >> "$GITHUB_OUTPUT"
+      - env: {GH_TOKEN: '${{ github.token }}'}
+        run: gh release view "${{ inputs.tag }}" >/dev/null 2>&1 || gh release create "${{ inputs.tag }}" --title "${{ inputs.tag }}" --notes "render" --prerelease
+  render:
+    needs: plan
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        part: ${{ fromJson(needs.plan.outputs.parts) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: 22, cache: npm}
+      - run: npm ci
+      - run: npx remotion browser ensure
+      - env: {GH_TOKEN: '${{ github.token }}'}
+        run: bash tools/ci/render-part.sh "${{ inputs.comp }}" "${{ matrix.part }}" "${{ inputs.parts }}" "${{ needs.plan.outputs.frames }}" "${{ inputs.tag }}"

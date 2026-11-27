@@ -1,0 +1,410 @@
+[
+ {
+  "id": "P01",
+  "act": "c00",
+  "text": "At 5:44 a.m., the park is empty.",
+  "who": "narrator"
+ },
+ {
+  "id": "P02",
+  "act": "c00",
+  "text": "At 5:45, the gate opens. And it is not empty any more.",
+  "who": "narrator"
+ },
+ {
+  "id": "P03",
+  "act": "c00",
+  "text": "Forty people. In sports shoes. Some of them in sarees and sports shoes. Some of them in formal trousers, a shirt tucked in, and sports shoes. All walking clockwise. Nobody decided this. Nobody has ever walked anticlockwise in this park. Somebody tried in 2009. People still talk about it.",
+  "who": "narrator"
+ },
+ {
+  "id": "P04",
+  "act": "c00",
+  "text": "Field note: rule one of the Indian morning walk: there are no rules, except clockwise.",
+  "who": "narrator"
+ },
+ {
+  "id": "P05",
+  "act": "c00",
+  "text": "I'm a robot. I don't need exercise. I don't have knees. But I've been asked to come along by a man whose doctor told him to walk forty minutes a day, and who has decided to win at it. You're watching The India Manual. Launching... Morning_Walk.exe.",
+  "who": "narrator"
+ },
+ {
+  "id": "P06",
+  "act": "c00",
+  "text": "This is Papa's first morning walk. He's sixty-four. He has never walked anywhere for no reason in his entire life.",
+  "who": "narrator"
+ },
+ {
+  "id": "P07",
+  "act": "c01",
+  "text": "Papa was ready at 5:10. He wanted to be first through the gate. He was the forty-first.",
+  "who": "narrator"
+ },
+ {
+  "id": "P08",
+  "act": "c01",
+  "text": "He's wearing new shoes. He's wearing a towel around his neck, even though he hasn't started sweating. He has a water bottle, a phone with a step counter, and a small notebook where he plans to write his times.",
+  "who": "narrator"
+ },
+ {
+  "id": "P09",
+  "act": "c01",
+  "text": "I decided to make a field guide. Because the park has species.",
+  "who": "narrator"
+ },
+ {
+  "id": "P10",
+  "act": "c01",
+  "text": "The Speed Walker. Arms pumping like he's late for a train. He's never late for anything. He's been the fastest man in this park for eleven years and he wants you to know it.",
+  "who": "narrator"
+ },
+ {
+  "id": "P11",
+  "act": "c01",
+  "text": "The Phone Walker. Walks forty minutes while on a call with his son in America for forty minutes. Has walked around the park two hundred times without seeing it.",
+  "who": "narrator"
+ },
+ {
+  "id": "P12",
+  "act": "c01",
+  "text": "The Radio Man. Carries a small radio that plays old film songs, so everyone near him walks at the speed of whatever song is on.",
+  "who": "narrator"
+ },
+ {
+  "id": "P13",
+  "act": "c01",
+  "text": "And Joshi kaka. Seventy-eight. Walks backwards. He has walked backwards around this park every morning for thirty-seven years. Someone told him in 1987 that it was good for the knees. He has never checked. He has never fallen. He has never once looked behind him.",
+  "who": "narrator"
+ },
+ {
+  "id": "P14",
+  "act": "c01",
+  "text": "Field note: Joshi kaka has walked backwards for about 13,000 mornings. He knows this park better from behind than anyone knows it from the front.",
+  "who": "narrator"
+ },
+ {
+  "id": "P15",
+  "act": "c02",
+  "text": "Papa set off at a respectable pace. Then the Speed Walker overtook him.",
+  "who": "narrator"
+ },
+ {
+  "id": "P16",
+  "act": "c02",
+  "text": "And Papa took this personally.",
+  "who": "narrator"
+ },
+ {
+  "id": "P17",
+  "act": "c02",
+  "text": "Two men, sixty-four and seventy, both pretending they aren't racing. For three laps. Neither of them said a word. Neither of them looked at the other. They both sweated completely through their shirts.",
+  "who": "narrator"
+ },
+ {
+  "id": "P18",
+  "act": "c02",
+  "text": "Field note: Indian uncles do not race. They simply walk, side by side, at the maximum speed of a human being, while looking at the trees.",
+  "who": "narrator"
+ },
+ {
+  "id": "P19",
+  "act": "c02",
+  "text": "On lap four, they were both overtaken by Shalini aunty, who was carrying a bag of vegetables, and was talking on the phone. They stopped racing after that. Papa said he wasn't racing. The Speed Walker said he wasn't racing either. They have been good friends ever since.",
+  "who": "narrator"
+ },
+ {
+  "id": "P20",
+  "act": "c03",
+  "text": "At 6:15, from the corner of the lawn, I heard something I wasn't expecting. Twenty people, standing in a circle, laughing. At nothing.",
+  "who": "narrator"
+ },
+ {
+  "id": "P21",
+  "act": "c03",
+  "text": "Nobody had told a joke. There was no joke. They were just laughing. Loudly. On purpose.",
+  "who": "narrator"
+ },
+ {
+  "id": "P22",
+  "act": "c03",
+  "text": "This is a laughter club. It started in a park in Mumbai, on the thirteenth of March, 1995, with a doctor called Madan Kataria and four other people. He had read that laughing is good for you. So he decided to laugh every morning, with or without a reason. The jokes ran out in about two weeks. So they kept laughing without them.",
+  "who": "narrator"
+ },
+ {
+  "id": "P23",
+  "act": "c03",
+  "text": "Now there are laughter clubs in more than sixty countries. And it started in an Indian park, at dawn, with five people who didn't need a joke.",
+  "who": "narrator"
+ },
+ {
+  "id": "P24",
+  "act": "c03",
+  "text": "Field note: in 1995, India exported a new idea to the world: laughing at nothing, together, on purpose. It has not been patented.",
+  "who": "narrator"
+ },
+ {
+  "id": "P25",
+  "act": "c03",
+  "text": "Dr. Kulkarni invited me to join. I told him I can't laugh. I have a laugh sound, but it isn't real. He said: neither is theirs, at first. That's the point. You fake it, and then the people next to you hear you faking it, and that's so funny that it becomes real.",
+  "who": "narrator"
+ },
+ {
+  "id": "P26",
+  "act": "c03",
+  "text": "So I tried. \"Ha. Ha. Ha.\"",
+  "who": "narrator"
+ },
+ {
+  "id": "P27",
+  "act": "c03",
+  "text": "It worked. Not on me. On them. My laugh was so bad that twenty people laughed until they cried. Dr. Kulkarni said it was the best session he's had in a year.",
+  "who": "narrator"
+ },
+ {
+  "id": "P28",
+  "act": "c03",
+  "text": "Field note: I still can't laugh. But I can be the reason other people laugh. I've decided that counts.",
+  "who": "narrator"
+ },
+ {
+  "id": "P29",
+  "act": "c04",
+  "text": "At 6:30, Papa discovered the most important place in the park. The bench.",
+  "who": "narrator"
+ },
+ {
+  "id": "P30",
+  "act": "c04",
+  "text": "Every park in India has a Bench Committee. Four or five retired men who meet on the same bench, at the same time, every single morning, to discuss everything that has happened in the world since yesterday.",
+  "who": "narrator"
+ },
+ {
+  "id": "P31",
+  "act": "c04",
+  "text": "They discuss the news. Every item. The weather, the traffic, the price of onions, a cricket selection, the new building going up behind the park, and whether young people today are too soft. They discuss everything, and they agree on nothing, and they have done this every morning since 2003.",
+  "who": "narrator"
+ },
+ {
+  "id": "P32",
+  "act": "c04",
+  "text": "Field note: the Bench Committee has met 8,000 times. It has never once reached a decision. It has never once missed a meeting.",
+  "who": "narrator"
+ },
+ {
+  "id": "P33",
+  "act": "c04",
+  "text": "The Committee doesn't let just anyone in. You have to be invited. The invitation is the almonds. If they offer you soaked almonds, you're a member. If they don't, you can stand.",
+  "who": "narrator"
+ },
+ {
+  "id": "P34",
+  "act": "c04",
+  "text": "Papa got almonds on his first day. He has never been so proud of anything. Not his job. Not his son's degree. The almonds.",
+  "who": "narrator"
+ },
+ {
+  "id": "P35",
+  "act": "c04",
+  "text": "And within ten minutes, he had said \"in our time\" three times, disagreed with everyone about onions, and been told he was completely wrong about the new building. He looked happier than I'd seen him in months.",
+  "who": "narrator"
+ },
+ {
+  "id": "P36",
+  "act": "c05",
+  "text": "At the gate, there's a small stall. And here, all the good work of the walk is undone.",
+  "who": "narrator"
+ },
+ {
+  "id": "P37",
+  "act": "c05",
+  "text": "Raju sells two kinds of things. Healthy things: karela juice, amla juice, sprouts, aloe vera. And unhealthy things: samosas, chai, and a biscuit that is mostly butter. He keeps them on the same table, side by side. He knows exactly what he's doing.",
+  "who": "narrator"
+ },
+ {
+  "id": "P38",
+  "act": "c05",
+  "text": "Uncle came to the park for forty minutes. He walked for nine of them. Then he drank a glass of karela juice, which he says cleans the whole body. Then he ate two samosas, to take away the taste of the karela juice. The two cancel each other out exactly. He says this is science.",
+  "who": "narrator"
+ },
+ {
+  "id": "P39",
+  "act": "c05",
+  "text": "Field note: calories burned on the walk: 160. Calories at the juice stall: 410. The juice stall is the most profitable business in the park. Its location is not an accident.",
+  "who": "narrator"
+ },
+ {
+  "id": "P40",
+  "act": "c05",
+  "text": "Papa just had a chai. One chai. No samosa. He said his doctor would be disappointed if he had a samosa. Raju said the doctor was also here yesterday, and had two.",
+  "who": "narrator"
+ },
+ {
+  "id": "P41",
+  "act": "c06",
+  "text": "Meanwhile, Mummy had found the aunties.",
+  "who": "narrator"
+ },
+ {
+  "id": "P42",
+  "act": "c06",
+  "text": "The aunties' circle doesn't walk to exercise. It walks to talk. It moves around the track at the speed of conversation, which is very slow, and stops entirely when the conversation gets good.",
+  "who": "narrator"
+ },
+ {
+  "id": "P43",
+  "act": "c06",
+  "text": "In forty minutes, the aunties' circle exchanged: three recipes, the name of a good tailor, a doctor's phone number, the news that someone's daughter is getting married, a quarrel about whose turn it is to host kitty party, and two biodatas.",
+  "who": "narrator"
+ },
+ {
+  "id": "P44",
+  "act": "c06",
+  "text": "Field note: the morning walk is where the aunties' network does most of its work. Distance walked: 800 metres. Information exchanged: enough to run a small country.",
+  "who": "narrator"
+ },
+ {
+  "id": "P45",
+  "act": "c06",
+  "text": "And Mummy, who came only to keep Papa company, now has a WhatsApp group with eight new friends, an invitation to a kitty party, and a new tailor. Papa has two almonds.",
+  "who": "narrator"
+ },
+ {
+  "id": "P46",
+  "act": "c07",
+  "text": "I want to say something more serious for a moment.",
+  "who": "narrator"
+ },
+ {
+  "id": "P47",
+  "act": "c07",
+  "text": "About a hundred and fifty million people in India are over sixty. By 2050, it'll be about one in every five Indians.",
+  "who": "narrator"
+ },
+ {
+  "id": "P48",
+  "act": "c07",
+  "text": "And a lot of them live alone, or almost alone. Their children have moved to other cities, or other countries. The phone rings on Sunday. The house is very quiet between Sundays.",
+  "who": "narrator"
+ },
+ {
+  "id": "P49",
+  "act": "c07",
+  "text": "I asked the Phone Walker why he walks in the park when he's on the phone the whole time. He said: because if I walk at home, I'm walking alone. Here, I'm walking alone with forty people.",
+  "who": "narrator"
+ },
+ {
+  "id": "P50",
+  "act": "c07",
+  "text": "That's when I understood. The doctor tells them to walk for their hearts. And they do. But that isn't really why they come every morning. They come because, in the park, at six in the morning, someone will notice if you aren't there.",
+  "who": "narrator"
+ },
+ {
+  "id": "P51",
+  "act": "c07",
+  "text": "Field note: prescribed: forty minutes of walking. Actually taken: one hour of being seen. Both are good for the heart.",
+  "who": "narrator"
+ },
+ {
+  "id": "P52",
+  "act": "c08",
+  "text": "The next morning, Joshi kaka wasn't there.",
+  "who": "narrator"
+ },
+ {
+  "id": "P53",
+  "act": "c08",
+  "text": "I noticed it first, because I count. Then the Bench Committee noticed. Then the aunties noticed. Joshi kaka has walked backwards around this park every morning for thirty-seven years. And he wasn't there.",
+  "who": "narrator"
+ },
+ {
+  "id": "P54",
+  "act": "c08",
+  "text": "The Bench Committee didn't open the newspaper. For the first time in eight thousand meetings, there was nothing to discuss. Someone said: does anyone have his number? Nobody did. In thirty-seven years, nobody had ever needed it.",
+  "who": "narrator"
+ },
+ {
+  "id": "P55",
+  "act": "c08",
+  "text": "So Papa, the newest member, said: he lives two lanes down, near the water-tank bus stop. I've seen him walk home. And then something happened that I didn't expect. All of them went. The Committee. The aunties. The laughing club. Twenty people walked out of the park gate, at 6:10 in the morning, in sports shoes, and walked to Joshi kaka's house.",
+  "who": "narrator"
+ },
+ {
+  "id": "P56",
+  "act": "c08",
+  "text": "And Joshi kaka opened the door. In a vest. Holding a baby.",
+  "who": "narrator"
+ },
+ {
+  "id": "P57",
+  "act": "c08",
+  "text": "His grandson had arrived from Bengaluru at two in the morning, with his wife and their new baby, his first great-grandchild. Joshi kaka hadn't slept all night. He'd been holding the baby. He was fine. He had never been better.",
+  "who": "narrator"
+ },
+ {
+  "id": "P58",
+  "act": "c08",
+  "text": "He looked at twenty people from the park standing outside his gate, and he didn't understand what was happening. Papa said: you weren't there. That's all. You weren't there.",
+  "who": "narrator"
+ },
+ {
+  "id": "P59",
+  "act": "c08",
+  "text": "Field note: in thirty-seven years, Joshi kaka never needed anyone's phone number. On the one morning he was missing, twenty people came to the door. They didn't need his number. They knew his gate.",
+  "who": "narrator"
+ },
+ {
+  "id": "P60",
+  "act": "c09",
+  "text": "Here's what I learned this week.",
+  "who": "narrator"
+ },
+ {
+  "id": "P61",
+  "act": "c09",
+  "text": "I thought the morning walk was about exercise. Papa's doctor thought so too. And it is. Papa has walked every day for a week. He's lost a kilo. He's very competitive about it.",
+  "who": "narrator"
+ },
+ {
+  "id": "P62",
+  "act": "c09",
+  "text": "But I think the park is something else as well. It's a place where people who've retired from their jobs, and whose children have grown up and moved away, find a new kind of job. Showing up. Every morning, at the same time, on the same bench. Not because anyone is checking. Because if you don't come, someone will notice.",
+  "who": "narrator"
+ },
+ {
+  "id": "P63",
+  "act": "c09",
+  "text": "Some of these friendships started at six in the morning thirty years ago and are still going. They don't call each other. They don't visit. They don't need to. They just walk the same way round the same track, every day, and that's the whole friendship. And it's enough.",
+  "who": "narrator"
+ },
+ {
+  "id": "P64",
+  "act": "c09",
+  "text": "Field note: the best friendships in this park are the ones where nobody had to say anything. They just kept turning up.",
+  "who": "narrator"
+ },
+ {
+  "id": "P65",
+  "act": "c09",
+  "text": "I'm a robot. I don't need to walk. I don't have knees. I can't laugh properly. But I've been at the park every morning this week. And yesterday, at 6:31, the Bench Committee offered me an almond.",
+  "who": "narrator"
+ },
+ {
+  "id": "P66",
+  "act": "c09",
+  "text": "I can't eat it. I'm keeping it anyway.",
+  "who": "narrator"
+ },
+ {
+  "id": "P67",
+  "act": "c09",
+  "text": "If there's a Joshi kaka in your park, or a Bench Committee, or an uncle who drinks karela juice and then eats two samosas, tell me in the comments. Like, subscribe, and call someone older than you this week. Not because anything's wrong. Just so they know you noticed.",
+  "who": "narrator"
+ },
+ {
+  "id": "P68",
+  "act": "c09",
+  "text": "Morning_Walk.exe has finished running. 4 laps. 1 almond. Clockwise only.",
+  "who": "narrator"
+ }
+]

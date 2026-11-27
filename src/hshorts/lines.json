@@ -1,0 +1,246 @@
+[
+ {
+  "id": "HS01-1",
+  "act": "HS01",
+  "text": "This is a car reversing in India.",
+  "src": "H01"
+ },
+ {
+  "id": "HS01-2",
+  "act": "HS01",
+  "text": "Not beeping. Performing.",
+  "src": "H02"
+ },
+ {
+  "id": "HS01-3",
+  "act": "HS01",
+  "text": "An engineer designed a little beep, so you'd know a car was behind you. India heard that and thought: what if it was also a wedding band?",
+  "src": "H03"
+ },
+ {
+  "id": "HS01-4",
+  "act": "HS01",
+  "text": "This one doesn't beep. It plays a full Bollywood song. Every time it backs out of the parking. Twice a day. For three years.",
+  "src": "H04"
+ },
+ {
+  "id": "HS01-5",
+  "act": "HS01",
+  "text": "It is the one sound on an Indian road that makes everyone stop. Not to make way. To hear the chorus.",
+  "src": "H05"
+ },
+ {
+  "id": "HS02-1",
+  "act": "HS02",
+  "text": "Abroad, a horn means one thing. \"Danger.\"",
+  "src": "H22"
+ },
+ {
+  "id": "HS02-2",
+  "act": "HS02",
+  "text": "Here, the horn is a language. And like every Indian language, it has dialects.",
+  "src": "H23"
+ },
+ {
+  "id": "HS02-3",
+  "act": "HS02",
+  "text": "One short beep: \"I'm here.\" Two short beeps: \"I'm passing.\" Three: \"I'm passing, and I want you to know I was patient.\"",
+  "src": "H24"
+ },
+ {
+  "id": "HS02-4",
+  "act": "HS02",
+  "text": "One long horn: \"I have opinions about your driving.\" One very long horn: \"I have opinions about your family.\"",
+  "src": "H25"
+ },
+ {
+  "id": "HS02-5",
+  "act": "HS02",
+  "text": "And a horn at a red light, with nobody moving anywhere: that one is not for anyone. That one is a feeling.",
+  "src": "H26"
+ },
+ {
+  "id": "HS03-1",
+  "act": "HS03",
+  "text": "The Hero Splendor. The most common bike in the country. Unwashed, unkillable. Its natural load: a man, his wife, two children, a gas cylinder, and a goat that has agreed to the arrangement.",
+  "src": "H32",
+  "from": 2
+ },
+ {
+  "id": "HS03-2",
+  "act": "HS03",
+  "text": "Field note: the real backbone of the country. Has never been serviced. Has never needed to be.",
+  "src": "H33"
+ },
+ {
+  "id": "HS04-1",
+  "act": "HS04",
+  "text": "She's turning left.",
+  "src": "NEW"
+ },
+ {
+  "id": "HS04-2",
+  "act": "HS04",
+  "text": "The Activa. Rider: often an aunty, dupatta tied over her face like a very polite bank robber. The left indicator has been on since the monsoon. Nobody tells her.",
+  "src": "H34",
+  "from": 2
+ },
+ {
+  "id": "HS04-3",
+  "act": "HS04",
+  "text": "Two kilometres. Three flyovers. Still left.",
+  "src": "NEW"
+ },
+ {
+  "id": "HS05-1",
+  "act": "HS05",
+  "text": "The Royal Enfield. Habitat: Instagram. Call: thump, thump, thump, and a pop that frightens a cow. Every rider is going to Ladakh next year. Since 2017.",
+  "src": "H35",
+  "from": 2
+ },
+ {
+  "id": "HS05-2",
+  "act": "HS05",
+  "text": "He wears a leather jacket in May. He calls this \"the vibe.\"",
+  "src": "H36"
+ },
+ {
+  "id": "HS05-3",
+  "act": "HS05",
+  "text": "This year, though? This year, for sure.",
+  "src": "NEW"
+ },
+ {
+  "id": "HS06-1",
+  "act": "HS06",
+  "text": "The KTM. Habitat: the gap that doesn't exist. Call: braap, braap, at a red light, going nowhere. The rider is nineteen, with one orange stripe. Every ride is a reel.",
+  "src": "H36b",
+  "from": 2
+ },
+ {
+  "id": "HS06-2",
+  "act": "HS06",
+  "text": "Light's green. Gap? Still no gap.",
+  "src": "NEW"
+ },
+ {
+  "id": "HS07-1",
+  "act": "HS07",
+  "text": "Mumbai's police once wired a few signals to a sound meter. If the honking at a red light got too loud, the timer went back to ninety. \"Honk more, wait more.\"",
+  "src": "H28"
+ },
+ {
+  "id": "HS07-2",
+  "act": "HS07",
+  "text": "The only traffic rule ever enforced by peer pressure. It worked.",
+  "src": "H29"
+ },
+ {
+  "id": "HS08-1",
+  "act": "HS08",
+  "text": "And the most famous three words on Indian roads. Horn. OK. Please.",
+  "src": "H41"
+ },
+ {
+  "id": "HS08-2",
+  "act": "HS08",
+  "text": "Nobody knows why it says \"OK.\" There are three theories. Every truck driver believes a different one, completely.",
+  "src": "H42"
+ },
+ {
+  "id": "HS08-3",
+  "act": "HS08",
+  "text": "The Maharashtra government once tried to ban it, to cut down on honking. The trucks kept painting it on.",
+  "src": "H43"
+ },
+ {
+  "id": "HS08-4",
+  "act": "HS08",
+  "text": "It's the only vehicle on the road that writes down its rules. It also follows them.",
+  "src": "H44"
+ },
+ {
+  "id": "HS09-1",
+  "act": "HS09",
+  "text": "\"Bhaiya, main road kaise jaayein?\"",
+  "src": "H46"
+ },
+ {
+  "id": "HS09-2",
+  "act": "HS09",
+  "text": "The driver points with his chin. A chin can give very precise directions. \"Seedha. Petrol pump se left. Phir mandir ke baad, jahan pehle bargad ka ped tha, wahan se right.\"",
+  "src": "H47"
+ },
+ {
+  "id": "HS09-3",
+  "act": "HS09",
+  "text": "Where the banyan tree used to be. It isn't there anymore. Everyone still uses it.",
+  "src": "H48"
+ },
+ {
+  "id": "HS09-4",
+  "act": "HS09",
+  "text": "\"Google pe toh...\"",
+  "src": "H49"
+ },
+ {
+  "id": "HS09-5",
+  "act": "HS09",
+  "text": "\"Google ko kya pata, sir.\"",
+  "src": "H50"
+ },
+ {
+  "id": "HS10-1",
+  "act": "HS10",
+  "text": "Every morning, Rohit's drive turns into a video game. Three lives. One car. No save points.",
+  "src": "H13b"
+ },
+ {
+  "id": "HS10-2",
+  "act": "HS10",
+  "text": "He knows every pothole by heart. The one outside the bank. The one that ate his silencer. And a new one, since Tuesday. He lost a life.",
+  "src": "H13c"
+ },
+ {
+  "id": "HS10-3",
+  "act": "HS10",
+  "text": "Two lives left. Same road home tonight.",
+  "src": "NEW"
+ },
+ {
+  "id": "HS11-1",
+  "act": "HS11",
+  "text": "He lives eleven kilometres from his office. Google Maps says twenty-six minutes. Google Maps says this every morning. Google Maps has never driven here.",
+  "src": "H09"
+ },
+ {
+  "id": "HS11-2",
+  "act": "HS11",
+  "text": "Field note: distance in India is not measured in kilometres. It is measured in \"depends.\"",
+  "src": "H10"
+ },
+ {
+  "id": "HS11-3",
+  "act": "HS11",
+  "text": "Rohit reached the office at nine forty-one. Sixty-one minutes. Google Maps said twenty-six. For the drive home, Google Maps is already saying twenty-six.",
+  "src": "H53"
+ },
+ {
+  "id": "HS12-1",
+  "act": "HS12",
+  "text": "Rule one. Stay in your lane.",
+  "src": "H16"
+ },
+ {
+  "id": "HS12-2",
+  "act": "HS12",
+  "text": "Three lanes. Five rows of traffic. The paint is not a rule. It's a suggestion, made by a man with a brush, who has since retired.",
+  "src": "H17"
+ },
+ {
+  "id": "HS12-3",
+  "act": "HS12",
+  "text": "Field note: a lane is not where you drive. It is where you started.",
+  "src": "H18"
+ }
+]
